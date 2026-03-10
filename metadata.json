@@ -1,0 +1,5 @@
+{
+  "name": "Video Object Tracker",
+  "description": "A dark-themed interface for video object tracking with confidence controls and visualization.",
+  "requestFramePermissions": []
+}
